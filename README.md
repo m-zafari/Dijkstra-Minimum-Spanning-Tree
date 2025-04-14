@@ -5,7 +5,7 @@ the input is given ti the program by a 2d arry as graph matrix
 **input**\
 	g = Graph(5)\
 	g.graph = [[0 , 5 , 0 , 9 , 1 ],\
-           [5 , 0 , 2 , 0 , 0 ],\
+      \\\\\\\     [5 , 0 , 2 , 0 , 0 ],\
            [0 , 2 , 0 , 6 , 0 ],\
            [9 , 0 , 6 , 0 , 2 ],\
            [1 , 0 , 0 , 2 , 0 ]]\
