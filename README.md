@@ -13,7 +13,7 @@ the input is given ti the program by a 2d arry as graph matrix
 	g.dijkstra(0) 
  
  **output**\
-Vertex 	& Distance from Source\
+Vertex 	& Distance from Source 0\
 0 		 0\
 1 		 5\
 2 		 7\
